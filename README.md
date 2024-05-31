@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nakul Gavhane
 
-### I am a Pre Final year Undergrad at Dr. D. Y. Patil Institute of Technology pursuing B.E in Artificial Intelligence and Data Science. As a developer, I am passionate about open source. I love Developing & Managing things.
+### I am a Final year Undergrad at Dr. D. Y. Patil Institute of Technology pursuing B.E in Artificial Intelligence and Data Science. As a developer, I am passionate about open source. I love Developing & Managing things.
 
 - 🔭 I’m currently working on Improving my skills and Building Myself.
 - 🌱 I’m currently learning Machine Learning.
